@@ -1,0 +1,9 @@
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\bin\Release\2048.exe.config
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\bin\Release\2048.exe
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\bin\Release\2048.pdb
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\obj\Release\_2048.Form1.resources
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\obj\Release\_2048.Properties.Resources.resources
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\obj\Release\2048.csproj.GenerateResource.Cache
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\obj\Release\2048.exe
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\obj\Release\2048.pdb
+C:\Users\yujinwunz\Documents\Visual Studio 2012\Projects\2048\2048\obj\Release\2048.csprojResolveAssemblyReference.cache
