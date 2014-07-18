@@ -3,8 +3,8 @@
 
 by yujinwunz@hotmail.com
 
-Conway's game of life simulator.
-This cute thing was supposed to become a multiplayer turn based game where players fight to destroy the opponent's flag (an oscillator) by buying and placing ships, cells and guns on squares that they control. But I stopped halfway and decided to just make this into a regular game of life simulator.
+2048 AI (C# simulation with gui)
+
 
 # Build
 
